@@ -8,4 +8,4 @@
 
     b. `E4Warning_HSMBirds_4StudySites_MonthlyPred2022_SpecComp.R`: The script evaluates the created rasters to illustrate the predicted suitable bird habitats for specific months of 2022 at each study site. It also allows the user to generate a list of species, for which the rasters are available, for each grid cell freely chosen by the user.
 
-3.  All created rasters files are available under doi_link_edmond
+3.  All created rasters files are publicly available under https://doi.org/10.17617/3.CMUKKN
